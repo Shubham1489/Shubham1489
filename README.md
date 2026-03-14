@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">🚀 AI Developer | Cybersecurity Enthusiast | Python Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Engineer;Cybersecurity+Learner;Full+Stack+Developer;Building+AI+Security+Platforms" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science;AI+Developer;Machine+Learning+Engineer;Full+Stack+Developer;DevOps;Python+Programming" />
 </p>
 
 ---
