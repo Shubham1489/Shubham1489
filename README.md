@@ -146,9 +146,11 @@ Exploring insights using Python data science tools
 
 # ⚡ Fun Fact
 
-💡 I love building **AI-powered security tools and scalable platforms**
+💡 I love building **AI-powered tools and scalable platforms**
 
-🚀 My goal is to become a **top AI + Cybersecurity Engineer**
+💡 I love Playing **Data and System**
+
+🚀 My goal is to become a **top Data + AI + System Engineer**
 
 ---
 
