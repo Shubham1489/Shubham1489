@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 
 🎓 BCA Student at **UPES Dehradun**  
 📍 Based in **Dehradun, India**  
-💻 Passionate about **Artificial Intelligence, Cybersecurity, and Software Development**  
-🚀 Currently building **AI Security Systems and ML Applications**
-
+💻 Passionate about **Artificial Intelligence, System, Data Science, and Software Development**  
+🚀 Currently building **AI Systems and ML Applications**
+<!--
+🚀 Currently building **AI Systems and ML Applications**
+-->
 ---
 
 # 🔥 Current Projects
@@ -156,6 +158,5 @@ Exploring insights using Python data science tools
 
 <p align="center">
 
-⭐️ From <b>Shubham Swain</b>
 
 </p>
