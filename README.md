@@ -46,7 +46,8 @@
 ├─────────────────────────────────────────┤
 │ NAME      : Shubham Swain               │
 │ ROLE      : AI / ML Engineer            │
-│           : Data Systems Builder        │
+│           : Data Science                │ 
+│           : Systems Builder             │
 │           : DevOps Practitioner         │
 │ EDUCATION : BCA @ UPES Dehradun         │
 │ LOCATION  : Dehradun, India 🇮🇳          │
