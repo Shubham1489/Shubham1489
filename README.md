@@ -66,8 +66,8 @@
 ### 🧠 Domain Intelligence Map
 
 ```
-AI / ML ──────── ████████████ 90%
-Data Systems ─── ██████████░░ 80%
+Data Science ───── ████████████ 90%
+AI / ML ───────── ██████████░░ 80%
 DevOps ────────── █████████░░░ 75%
 Network Sec ───── ████████░░░░ 70%
 System Design ─── ████████░░░░ 70%
